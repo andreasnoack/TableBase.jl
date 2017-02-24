@@ -1,4 +1,4 @@
-using TabularData
+using TableBase
 using Base.Test
 
 # write your own tests here

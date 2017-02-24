@@ -1,4 +1,4 @@
-The TabularData.jl package is licensed under the MIT "Expat" License:
+The TableBase.jl package is licensed under the MIT "Expat" License:
 
 > Copyright (c) 2017: Andreas Noack.
 > 
